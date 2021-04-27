@@ -9,4 +9,5 @@ This system is a tripwire consisting of a laser diode and photoresister, as well
 
 Currently, the system needs to be plugged into a laptop. In the future, this project could be improved by making a stand-alone system. This could not be completed for this project because I did not have a WIFI shield for my arduino. So in order to send the text message, I had to be connected to my computer to send it through Python. This was one of the biggest problem-solving challenges that I faced, because the resources I was comparing to all suggested the only way of texting from Arduino to be through a Wifi shield. But, by reading the serial outputs into python, I was able to circumvent this issue and still send the text message. 
 
-The code for this project is included in the repository, as well as a video demonstration!
+The code for this project is included in the repository, and the video link to a demo and explanation is included below!
+https://youtu.be/vqmymjZ0udk
